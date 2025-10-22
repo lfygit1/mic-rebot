@@ -11,11 +11,13 @@ mick_robot 是一个开源的自主导航小车项目名称，使用四轮差速
 dfadsfdsafdsafad
 ### 代码目录说明
 
+####第三次提交###11
+
 - **mick_bringup** :  为麦克纳姆轮和四轮差速ROS底盘的ROS节点
 - **mick_description** : 存放模型文件和URDF文件
 - **mick_navigation**:  move base导航配置文件
 
- # 1 Gazebo仿真环境下运行
+ # 1 Gazebo仿真环境下运行  # 第二次提交记录
 
 ## 1.1 启动Gazebo仿真环境
 
