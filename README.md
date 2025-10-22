@@ -33,7 +33,7 @@ sudo apt install ros-humble-gazebo-ros-pkgs ros-humble-gazebo-plugins
 ros2 launch mickrobot_description gazebo.launch.py
 ```
 启动后节点将发布以下话题
-
+# 1
 ```
 /camera_sensor/camera_info
 /camera_sensor/image_raw
