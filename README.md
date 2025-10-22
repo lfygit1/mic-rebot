@@ -36,6 +36,7 @@ ros2 launch mickrobot_description gazebo.launch.py
 # 1
 # 2
 # 3
+# 4
 ```
 /camera_sensor/camera_info
 /camera_sensor/image_raw
