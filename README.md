@@ -28,7 +28,7 @@ sudo apt install ros-humble-gazebo-ros-pkgs ros-humble-gazebo-plugins
 ```
 
 启动gazebo仿真节点
-
+# 远程别人合并到main的 rebase 练习3
 ```
 ros2 launch mickrobot_description gazebo.launch.py
 ```
